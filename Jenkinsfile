@@ -1,6 +1,5 @@
 pipeline {
     agent any
-
     environment {
         DOCKER_IMAGE = "AratiSatti/lab44"
         DOCKER_TAG = "latest"
